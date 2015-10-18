@@ -1,0 +1,6 @@
+E:\Projects\SINIApplication\SINIApplication\bin\SINIApplication.dll.config
+E:\Projects\SINIApplication\SINIApplication\bin\SINIApplication.dll
+E:\Projects\SINIApplication\SINIApplication\bin\SINIApplication.pdb
+E:\Projects\SINIApplication\SINIApplication\obj\Debug\SINIApplication.dll
+E:\Projects\SINIApplication\SINIApplication\obj\Debug\SINIApplication.pdb
+E:\Projects\SINIApplication\SINIApplication\obj\Debug\SINIApplication.csprojResolveAssemblyReference.cache
